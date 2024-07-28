@@ -105,7 +105,7 @@ h3{
 }
 /*Formulario*/
 .formulario{
-    background-color: var(--gris);
+    background-color: var(--primario);
     width: min(60rem, 100rem);
     margin: 0 auto;
     padding: 2rem;
