@@ -106,7 +106,8 @@ h3{
 /*Formulario*/
 .formulario{
     background-color: var(--secundario);
-    width: min(60rem, 100rem);
+    width: 90%;
+      max-width: 60rem;
     margin: 0 auto;
     padding: 2rem;
     border-radius: 1rem;
@@ -135,6 +136,8 @@ h3{
        }
 }
 .campo {
+    flex: 1 1 100%;
+     min-width: 250px;
     margin-bottom: 1rem;
 }
 .campo label{
