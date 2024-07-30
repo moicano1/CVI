@@ -203,3 +203,15 @@ h3{
     text-align: center;
     margin-top: 0;
 }
+@media (max-width:390px){
+    .navegacion-principal a{
+        display: block;
+        
+    }
+}
+
+
+
+
+
+     
